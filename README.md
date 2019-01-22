@@ -6,7 +6,7 @@ This is a simple function made for [Nuclio](https://nuclio.io), an open source a
 
 ### Prerequisites
 - [Docker](https://www.docker.com/)
-- [Node.js](https://nodejs.org/) if you want to run the `logger.js` otherwise is not necessary
+- [Node.js](https://nodejs.org/) 
 
 ### How to use it
 Clone this repository:
